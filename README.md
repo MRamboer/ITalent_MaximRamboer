@@ -1,2 +1,3 @@
-# ITalent_MaximRamboer
+# I²Talent Maxim Ramboer
 E-Portfolio Maxim Ramboer
+
